@@ -1,5 +1,6 @@
 #!/bash/sh
-echo "First one :"
+# This simple tool automatically blanks 'classical' links in all .html files from current folder"
+echo "Your links will be broken :"
 for f in *.html 
 do 
 	echo "Processing $f file..."
