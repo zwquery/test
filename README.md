@@ -1,1 +1,7 @@
-# This simple tool automatically blanks 'classical' links in all .html files from current folder"
+# Putting some useful scripts (probably better in other places) for
+<list>
+<il>Playing</il>
+<il>Training</il>
+<il>Spare time</il>
+<il>Fun</il>
+</list>
