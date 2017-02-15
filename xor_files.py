@@ -13,7 +13,7 @@ os.system('cls')
 
 
 print "Basic Cypher system by ZwQuery"
-print "********************************
+print "*******************************"
 print ""
 print "Only for Python 2.7"
 print ""
