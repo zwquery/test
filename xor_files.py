@@ -1,6 +1,6 @@
 ﻿#!/usr/bin/python
 # -*- coding: utf-8 -*-
-# This basic script requires all files are in hardcoded C:\folder\ folder
+# This basic script requires all files are to be in hardcoded C:\folder\ folder
 #
 # It DOES NOT save files before ! Hopefully, XOR is reversible   :)
 
@@ -13,7 +13,7 @@ os.system('cls')
 
 
 print "Basic Cypher system by ZwQuery"
-print "************************************"
+print "*******************************
 print ""
 print "Only for Python 2.7"
 print ""
