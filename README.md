@@ -1,7 +1,8 @@
-# Putting some useful scripts (probably better in other places) for
-<list>
-<il>Playing</il>
-<il>Training</il>
-<il>Spare time</il>
-<il>Fun</il>
-</list>
+<h1>Trying to spare time... to learn other things...</h1>
+
+<ul>
+<li>Playing</li>
+<li>Training</li>
+<li>Fun</li>
+<li>You ?</li>
+</ul>
