@@ -1,0 +1,4 @@
+
+# Searching for big files on a Windows computer
+forfiles /S /M * /C "cmd /c if @fsize GEQ 1048576 echo @path"
+
