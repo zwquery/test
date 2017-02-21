@@ -1,14 +1,14 @@
+@echo off
 REM This script saves "D" drive content on USB (J) in backup subfolder.
 REM Don't forget to change D, F and... have a backup folder on the key.
-@echo off
 cls
 title Saving...
 color 0a
 
 echo        Backing up         
-echo ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
-echo     ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
-echo            ÄÄÄÄÄ
+echo Ã€Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã™
+echo     Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„
+echo            Ã„Ã„Ã„Ã„Ã„
 echo.
 echo.
 pause
