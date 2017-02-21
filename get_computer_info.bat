@@ -1,8 +1,8 @@
+@echo off
 REM This Windows batch file uses "wmic" to collect some informations about one computer in AD
 REM Please, use PowerShell for more features...   :p
 REM It deletes itself (and the log file if closed first)
 
-@echo off
 echo Please wait...
 echo.
 echo.
